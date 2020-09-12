@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B714AD88-968F-45D7-AB4B-9A9A3F220F6A}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+	azure-pipelines.yml = azure-pipelines.yml
+	README.md = README.md
+EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTreeProject.Common", "src\FamilyTreeProject.Common\FamilyTreeProject.Common.csproj", "{01D63199-1DDB-453B-ABD8-4BC4EDE0ACE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01D63199-1DDB-453B-ABD8-4BC4EDE0ACE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D63199-1DDB-453B-ABD8-4BC4EDE0ACE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D63199-1DDB-453B-ABD8-4BC4EDE0ACE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D63199-1DDB-453B-ABD8-4BC4EDE0ACE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

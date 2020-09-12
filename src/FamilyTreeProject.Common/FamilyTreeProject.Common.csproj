@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <PackageVersion>1.0.0</PackageVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Data" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Naif.Core" Version="2.0.0" />
+    </ItemGroup>
+
+</Project>
