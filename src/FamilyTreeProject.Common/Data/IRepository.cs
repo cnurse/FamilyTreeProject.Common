@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Naif.Core.Collections;
 
-namespace FamilyTreeProject.Core.Data
+namespace FamilyTreeProject.Common.Data
 {
     public interface IRepository
     {

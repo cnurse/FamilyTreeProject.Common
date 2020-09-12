@@ -1,7 +1,6 @@
 ﻿using System;
-using FamilyTreeProject.Core.Common;
 
-namespace FamilyTreeProject.Core.Data
+namespace FamilyTreeProject.Common.Data
 {
     public interface IUnitOfWork : IDisposable
     {

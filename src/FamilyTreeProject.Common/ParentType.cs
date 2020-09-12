@@ -1,4 +1,4 @@
-namespace FamilyTreeProject.Graph.Common
+namespace FamilyTreeProject.Common
 {
     /// <summary>
     /// An enumeration of Parent Types

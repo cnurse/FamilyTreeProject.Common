@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace FamilyTreeProject.Core.Data
+namespace FamilyTreeProject.Common.Data
 {
     public interface IDocument
     {
