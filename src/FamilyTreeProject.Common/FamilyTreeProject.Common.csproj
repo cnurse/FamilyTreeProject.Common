@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
-        <PackageVersion>1.0.2</PackageVersion>
+        <PackageVersion>1.0.3</PackageVersion>
     </PropertyGroup>
 
     <ItemGroup>
@@ -10,7 +10,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="Naif.Core" Version="2.0.0" />
+      <PackageReference Include="Naif.Core" Version="2.0.1" />
     </ItemGroup>
 
 </Project>
