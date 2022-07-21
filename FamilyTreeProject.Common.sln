@@ -5,6 +5,7 @@ ProjectSection(SolutionItems) = preProject
 	.gitignore = .gitignore
 	azure-pipelines.yml = azure-pipelines.yml
 	README.md = README.md
+	.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
 EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTreeProject.Common", "src\FamilyTreeProject.Common\FamilyTreeProject.Common.csproj", "{01D63199-1DDB-453B-ABD8-4BC4EDE0ACE5}"
