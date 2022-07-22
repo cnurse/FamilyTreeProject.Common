@@ -1,4 +1,5 @@
 ﻿using System;
+using FamilyTreeProject.Common.Models;
 
 namespace FamilyTreeProject.Common.Data
 {
@@ -6,6 +7,6 @@ namespace FamilyTreeProject.Common.Data
     {
         void Commit();
 
-        IRepository<T> GetRepository<T>() where T : class;
+        IRepository<T> GetRepository<T>() where T : Entity;
     }
 }
