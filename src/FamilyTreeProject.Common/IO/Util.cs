@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using FamilyTreeProject.Common.DataModels;
 
-namespace FamilyTreeProject.Data.Common
+namespace FamilyTreeProject.Common.IO
 {
     public static class Util
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using FamilyTreeProject.Common.Data;
 using Naif.Core.Collections;
 
-namespace FamilyTreeProject.Data.Common
+namespace FamilyTreeProject.Common.IO
 {
     public abstract class BaseRepository<TModel> : IRepository<TModel> where TModel : class
     {
