@@ -4,7 +4,7 @@ using FamilyTreeProject.Common.Data;
 using FamilyTreeProject.Common.Models;
 using Naif.Core.Contracts;
 
-namespace FamilyTreeProject.Data.Common
+namespace FamilyTreeProject.Common.IO
 {
     public abstract class FileStore : IFileStore
     {
