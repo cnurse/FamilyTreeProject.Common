@@ -3,7 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B714AD88-968F-45D7-AB4B-9A9A3F220F6A}"
 ProjectSection(SolutionItems) = preProject
 	.gitignore = .gitignore
-	azure-pipelines.yml = azure-pipelines.yml
 	README.md = README.md
 	.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
 EndProjectSection
